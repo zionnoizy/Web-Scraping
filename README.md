@@ -1,5 +1,4 @@
-##Web Scraping w/ BeatuifulSoup
-
+# Web Scraping w/ BeatuifulSoup
 
 The program **task1.py** will recursive the course name and course description from coursebuffer.com 
 The result store at result.json If user needs to retrieve different kinds of topic, change the variable search_topic.
